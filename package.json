@@ -1,0 +1,24 @@
+{
+  "name": "localtimerpc",
+  "version": "1.0.0",
+  "description": "A small program that sets Discord's Rich Presence to your local time. Should stop midnight pings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyojoH/localtimerpc.git"
+  },
+  "keywords": [
+    "discord",
+    "rpc",
+    "time"
+  ],
+  "author": "KyojoH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyojoH/localtimerpc/issues"
+  },
+  "homepage": "https://github.com/KyojoH/localtimerpc#readme"
+}
